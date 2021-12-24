@@ -1,0 +1,6 @@
+[submodule "custom_scene"]
+	path = custom_scene
+	url = ../custom_scene.git
+[submodule "test_custom_scene"]
+	path = test_custom_scene
+	url = ../test_custom_scene.git
